@@ -5,7 +5,7 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m a **Software Engineer**
+- 🔭 I’m a **Computer System Engineer**
 - 🌱 I’m currently learning **Machine Learning & Web Development**
 - 💬 Ask me about **Python, Django, AI, and Networking**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:muhammadshabir594@gmail.com)
