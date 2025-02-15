@@ -8,7 +8,7 @@
 - 🎓 **Computer System Engineer**
 - 🤖 Passionate about **Machine Learning & Web Development**
 - 🚀 Exploring **Data Science, AI, and Cloud Technologies**
-- 📩 Reach me at: [LinkedIn](https://linkedin.com/) | [Email](mailto:muhammadshabir594@gmail.com)
+- 📩 Reach me at: [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/engr-shabir-411357262/) | [Email](mailto:muhammadshabir594@gmail.com)
 
 ---
 
