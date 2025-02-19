@@ -4,11 +4,33 @@
 
 ---
 
-## 🌱 About Me
-- 🎓 **Computer System Engineer**
-- 🤖 Passionate about **Machine Learning & Web Development**
-- 🚀 Exploring **Data Science, AI, and Cloud Technologies**
-- 📩 Reach me at: [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/engr-shabir-411357262/) | [Email](mailto:muhammadshabir594@gmail.com)
+<h1 align="center" style="font-size: 40px; font-weight: bold; color: #4CAF50;">
+  🚀 Engr Muhammad Shabir Orakzai
+</h1>
+
+<div align="center">
+  <p>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> 
+    <strong>Computer System Engineer</strong>
+  </p>
+  
+  <p>
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"/> 
+    Passionate about <strong>Machine Learning & Web Development</strong>
+  </p>
+
+  <p>
+    <img src="https://media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif" width="20"/> 
+    Exploring <strong>Data Science, AI, and Cloud Technologies</strong>
+  </p>
+
+  <p>
+    <img src="https://media.giphy.com/media/sr8jYZVVsCmxddga8w/giphy.gif" width="20"/> 
+    Reach me at: <a href="https://linkedin.com/" target="_blank"><strong>LinkedIn</strong></a> | 
+    <a href="mailto:muhammadshabir594@gmail.com"><strong>Email</strong></a>
+  </p>
+</div>
+
 
 ---
 
