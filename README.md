@@ -49,8 +49,9 @@ other_tools = ['Git', 'Docker', 'AWS', 'Machine Learning']
 
 ---
 
-## 🔥 Fun Animations
-![ML Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhnNmt0MHVucXp3c2I2bDJteHRiMHVtc2dzbXh3cXM2aXBqNGYycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JBygxaUuh8aJ6YHn/giphy.gif)
+## 🔥 Fun Animations  
+![ML Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjc0MzgybmNlc3JsMW90a3djOXcxZW5obHpjd2puMGFxcmJkN3dxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NsBknNwmmWE8WU1q2U/giphy.gif)
+
 
 
 ---
