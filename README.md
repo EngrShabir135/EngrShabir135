@@ -1,6 +1,7 @@
 ### Hi there! I'm **Engr. Muhammad Shabir** 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EngrShabir135&color=brightgreen)
+<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="500">
 
 ---
 
@@ -30,7 +31,6 @@ backend = ['Django', 'Flask', 'FastAPI', 'Node.js']
 frontend = ['React', 'HTML', 'CSS']
 other_tools = ['Git', 'Docker', 'AWS', 'Machine Learning']
 ```
-
 ---
 
 ## 🏆 GitHub Stats
@@ -49,9 +49,7 @@ other_tools = ['Git', 'Docker', 'AWS', 'Machine Learning']
 
 ---
 
-## 🔥 Fun Animations  
-![ML Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjc0MzgybmNlc3JsMW90a3djOXcxZW5obHpjd2puMGFxcmJkN3dxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NsBknNwmmWE8WU1q2U/giphy.gif)
-
+<img src="https://media0.giphy.com/media/NDAxH2kFkcSKpbMvsE/giphy.gif" width="500">
 
 
 ---
