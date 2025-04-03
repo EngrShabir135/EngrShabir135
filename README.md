@@ -16,7 +16,8 @@
 
 ### 🎓 **Computer System Engineer**
 🎯 Passionate about **Machine Learning & Web Development**  
-🚀 Exploring **Data Science, AI, and Cloud Technologies**  
+🚀 Exploring **Data Science, AI, and Cloud Technologies** 
+** True strength is proving yourself in tough conditions, not waiting for the perfect ones**
 📩 Reach me at:  
 🔗 [LinkedIn](https://www.linkedin.com/in/engr-shabir-411357262/) | ✉️ [Email](mailto:muhammadshabir594@gmail.com)
 
