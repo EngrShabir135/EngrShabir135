@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-   True strength is proving yourself in tough conditions, not waiting for the perfect ones <br>
+   True strength is proving yourself in tough conditions, not waiting for the perfect ones <br><br><br><br>
   🌱 About Me
 </h1>
 
