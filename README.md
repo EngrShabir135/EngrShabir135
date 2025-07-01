@@ -1,64 +1,90 @@
-### Hi there! I'm **Engr. Muhammad Shabir** 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=EngrShabir135&color=brightgreen)
-<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="500">
-
----
-
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-   True strength is proving yourself in tough conditions, not waiting for the perfect ones <br><br><br><br>
-  🌱 About Me
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi+I'm+Engr.+Muhammad+Shabir;Machine+Learning+Engineer;Web+Developer;Open+Source+Contributor" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=4CAF50&center=true&vCenter=true&width=500&lines=👨‍💻+Computer+System+Engineer;🚀+ML+%26+Web+Development+Enthusiast;📊+Exploring+AI%2C+Cloud+%26+Data+Science;" />
+  <strong>Computer Systems Engineer | Data Analyst | ML Developer</strong>  
+  <br>Transforming raw data into smart solutions with Python, ML & Web Technologies.
 </p>
 
-### 🎓 **Computer System Engineer**
-🎯 Passionate about **Machine Learning & Web Development**  
-🚀 Exploring **Data Science, AI, and Cloud Technologies** 
-📩 Reach me at:  
-🔗 [LinkedIn](https://www.linkedin.com/in/engr-shabir-411357262/) | ✉️ [Email](mailto:muhammadshabir594@gmail.com)
+---
 
+### 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF00)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=00FF00)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00FF00)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat-square&logo=streamlit&logoColor=00FF00)
+![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-000000?style=flat-square&logo=scikitlearn&logoColor=00FF00)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000000?style=flat-square&logo=powerbi&logoColor=00FF00)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00FF00)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF00)
 
 ---
 
-## 🚀 Skills
+### 🌍 Connect With Me
 
-```python
-languages = ['Python', 'Java', 'Kotlin', 'JavaScript', 'SQL']
-backend = ['Django', 'Flask', 'FastAPI', 'Node.js']
-frontend = ['React', 'HTML', 'CSS']
-other_tools = ['Git', 'Docker', 'AWS', 'Machine Learning']
-```
----
-
-## 🏆 GitHub Stats
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EngrShabir135&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EngrShabir135&theme=radical"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/engr-shabir-411357262)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=00FF00)](https://github.com/EngrShabir135)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-000000?style=flat&logo=kaggle&logoColor=00FF00)](https://www.kaggle.com/engrshabir)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-000000?style=flat&logo=fiverr&logoColor=00FF00)](https://www.fiverr.com/sellers/engrshabir683/edit)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=00FF00)](mailto:muhammadshabir594@gmail.com)
 
 ---
 
-## 🛠️ Top Projects
-| 🚀 Project | ⭐ Stars |
-|-----------|---------|
-| [Linear Regression](https://github.com/EngrShabir135/Linear_regression_with_multiple_variable) | ![GitHub stars](https://img.shields.io/github/stars/EngrShabir135/Linear_regression_with_multiple_variable?style=social) |
-| [Huffman Compression](https://github.com/EngrShabir135/Huffman) | ![GitHub stars](https://img.shields.io/github/stars/EngrShabir135/Huffman?style=social) |
+### 🛠️ Professional Experience
+
+- 🔸 **Data Analyst – SnippRetail (2025 – Present)**  
+  Built dashboards in Power BI, automated Excel reporting — boosted reporting speed by 40%.
+
+- 🔸 **KYC Agent – Revolut (via Mindbridge)**  
+  Conducted KYC verification & AML compliance across global clients.
+
+- 🔸 **Freelance Data Analyst on Fiverr (2021 – Present)**  
+  Completed 100+ data analysis projects (Power BI, Excel, Tableau)  
+  → [Profile](https://www.fiverr.com/sellers/engrshabir683/edit)
+
+- 🔸 **ML Intern – BiStarX (Remote)**  
+  Built ML models for segmentation, house price prediction & attrition forecasting.
 
 ---
 
-<img src="https://media0.giphy.com/media/NDAxH2kFkcSKpbMvsE/giphy.gif" width="500">
+### 📚 Education & Certifications
 
+🎓 **BSc Computer Systems Engineering** – Islamia University, Bahawalpur  
+📈 **CGPA:** 3.62 / 4.00  
+🛠️ **Registered Engineer:** PEC Reg# COMP/024380  
+🗣️ **Languages:** English (Fluent), Urdu (Native)
 
 ---
 
-## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EngrShabir135&theme=green&area=true)
+### 🚀 Featured Projects with Live Demos
+
+| 💻 Project | 🧩 Description | 🌐 Live Demo |
+|-----------|----------------|--------------|
+| **Email Extractor** | OCR with Streamlit + Tesseract | [Launch App](https://emails-extraction-app.streamlit.app/) |
+| **Free AI Agent** | LangChain chatbot + PDF retrieval | [Launch App](https://free-ai-agent-u7xnwhxsavuvwshjvjxnen.streamlit.app/) |
+| **Decision Tree Tuner** | Interactive ML app | [Launch App](https://hyperparameter-on-decision-treegit-4glhczrbnhjbjxnnur8fkx.streamlit.app/) |
+| **Text-to-Image Generator** | Prompt-based image creation | [Launch App](https://text-to-image-convertor-dqhy2cld5rverkmq6mdoht.streamlit.app/) |
 
 ---
 
-## 💡 Fun Fact
-> "The best way to predict the future is to create it!" 🚀
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EngrShabir135&show_icons=true&theme=chartreuse-dark" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrShabir135&layout=compact&theme=chartreuse-dark" width="47%"/>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> ☕ I debug better after coffee.  
+> 🤖 Automating the boring stuff is my hobby.
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B" />
+</h3>
