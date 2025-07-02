@@ -78,13 +78,17 @@
 
 ---
 
-### ⚡ Fun Fact
+### 🤖 Meet Engr Shabir Bot
 
-> ☕ I debug better after coffee.  
-> 🤖 Automating the boring stuff is my hobby.
+```txt
+Hi! I'm an interactive bot built by Engr. Shabir 🤖
 
----
+💬 Ask me anything like:
+- What is he doing now?
+- Is he married or has a girlfriend?
+- What are his skills, education or dream?
+- Is Engr. Shabir beautiful?
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B" />
-</h3>
+🧠 I store your conversation & answer smartly.
+
+Click below to start chatting with me 👇
